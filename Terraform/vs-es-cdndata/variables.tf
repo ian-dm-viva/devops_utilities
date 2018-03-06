@@ -7,8 +7,8 @@
 
 provider "aws" {
   region     = "eu-west-2"
-  access_key = "AKIAJF7ANQWB3ONDTW6A"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 variable "domain_name" {
